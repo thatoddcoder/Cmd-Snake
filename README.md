@@ -1,2 +1,3 @@
 # Cmd-Snake
-It took me 20 min to make this
+It took me 20 min to make this lol
+
